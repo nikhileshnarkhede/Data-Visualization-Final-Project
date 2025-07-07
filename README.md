@@ -81,12 +81,6 @@ Data-Visualization-Final-Project/
 
 ---
 
-## 📸 Screenshots
-
-> ![Sample](./images/salary_trends_example.png)  
-> *(Add more screenshots of your dashboard here)*
-
----
 
 ## 👨‍💻 Author
 
@@ -103,6 +97,5 @@ This project is released under the [MIT License](./LICENSE) – free for persona
 
 ## 🙌 Acknowledgements
 
-- [D3.js Documentation](https://d3js.org/)  
-- [Dataset Source] – Insert link  
+- [D3.js Documentation](https://d3js.org/)   
 - Course Instructors and Peers
