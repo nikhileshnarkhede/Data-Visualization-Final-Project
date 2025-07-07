@@ -21,7 +21,7 @@ The goal is to uncover insights that help professionals and hiring managers bett
 
 ## 🚀 Demo
 
-> 🔗 Open the dashboard: [Click here to view the interactive dashboard]([./dashboard.html](https://nikhileshnarkhede.github.io/Data-Visualization-Final-Project/))
+> 🔗 Open the dashboard: [Click here to view the interactive dashboard](https://nikhileshnarkhede.github.io/Data-Visualization-Final-Project/))
 
 (*Note: Open in a modern browser to enable full interactivity.*)
 
